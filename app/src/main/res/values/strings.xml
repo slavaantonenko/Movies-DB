@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movies DB</string>
+    <string name="preferences">preferences</string>
+    <string name="tab_popular_movies">Popular Movies</string>
+    <string name="tab_watchlists">Watchlists</string>
+    <string name="favourites_watchlist">Favourites</string>
+    <string name="new_watchlist">New watchlist</string>
+    <string name="watchlist_name_empty">Name can not be empty</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_watchlist">Choose watchlist add the movie to</string>
+    <string name="no_watchlist_available">This movie was already added to all existed lists</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
